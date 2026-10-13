@@ -59,4 +59,4 @@ st.pyplot(fig)
 
 # ---------- Chân trang ----------
 st.markdown("---")
-st.caption("Người thực hiện: Nguyễn Văn A – MSSV: 12345678")  # <-- SỬA TÊN VÀ MSSV CỦA BẠN
+st.caption("Người thực hiện: Trần Việt Hoàng – MSSV: 025208009350")  
